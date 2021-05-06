@@ -1,1 +1,3 @@
 Welcome to RISE
+
+GIT is cool and crazy stuff.
